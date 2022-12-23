@@ -1,0 +1,19 @@
+.nav_bar{
+    font-family: 'Nerko One';
+    font-size: 20px;
+    float: right;
+    list-style: none;
+}
+.nav_bar li{
+    display: inline-block;
+}
+.nav_bar li a{
+    padding: 15px;
+}
+.nav_bar li a:hover{
+    background: #959191;
+    color: #fff;
+    border: 1px solid #000;
+    border-radius: 5px;
+    border-width: auto;
+}
